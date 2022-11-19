@@ -1,5 +1,5 @@
 {
-  "name": "toastr",
+  "name": "toastr-comicar",
   "filename": "build/toastr.min.js",
   "main": "toastr.js",
   "style": "build/toastr.min.css",
@@ -9,23 +9,18 @@
   "keywords": [
     "Toastr",
     "ToastrJS",
-    "toastr.js"
+    "toastr.js",
+    "toastr-comicar",
+    "comicar"
   ],
   "maintainers": [
     {
-      "name": "John Papa",
-      "web": "http://www.johnpapa.net",
-      "twitter": "@john_papa"
-    },
-    {
-      "name": "Tim Ferrell",
-      "web": "https://twitter.com/ferrell_tim",
-      "twitter": "@ferrell_tim"
+      "name": "Matias Peralta Macri"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/CodeSeven/toastr.git"
+    "url": "https://github.com/matiasperaltamacri/toastr-comicar"
   },
   "bugs": "http://stackoverflow.com/questions/tagged/toastr",
   "licenses": [
